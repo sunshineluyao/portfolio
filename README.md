@@ -8,7 +8,7 @@
 | Tables        | URL          | 
 | ------------- |:-------------:| 
 | Data     | right-aligned | 
-| Code     | centered      |   
+| Code     | https://github.com/sunshineluyao/portfolio/tree/main/code |   
 | Spotligh| are neat      |   
 
 
