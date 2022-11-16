@@ -5,11 +5,9 @@
 - ...
 
 ## Table of Contents
-| **Tables**    | **URL**          | 
-| ------------- |:-------------:| 
-| Data     | https://github.com/sunshineluyao/portfolio/tree/main/code| 
-| Code     | https://github.com/sunshineluyao/portfolio/tree/main/code |   
-| Spotligh| https://github.com/sunshineluyao/portfolio/tree/main/spotlight|   
+- data
+- code
+- spotlight
 
 
 
