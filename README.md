@@ -14,7 +14,7 @@
 
 
 ## Data
-- Data Source
+- Data Source: https://github.com/SciEcon/SoK_Blockchain_Decentralization
 - Queried Data
 - Processed Data
 - ...
