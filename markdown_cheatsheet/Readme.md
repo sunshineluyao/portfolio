@@ -1,2 +1,3 @@
-- reference 1: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code
-- reference 2: https://github.com/sunshineluyao/Readme-Cheatsheet
+**Reference**
+- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code
+- https://github.com/sunshineluyao/Readme-Cheatsheet
