@@ -5,10 +5,11 @@
 - ...
 
 ## Table of Contents
-- Data
-- Code
-- Spotlight
-- -...
+| Tables        | URL          | 
+| ------------- |:-------------:| 
+| Data     | right-aligned | 
+| Code     | centered      |   
+| Spotligh| are neat      |   
 
 
 
