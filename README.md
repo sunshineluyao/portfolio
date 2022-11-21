@@ -1,5 +1,5 @@
 
-![Figure 2](./images/fig 2 EMA.jpg)
+![Figure 2](images/fig 2 EMA.jpg)
 
 
 
