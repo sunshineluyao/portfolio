@@ -1,3 +1,10 @@
+
+![Figure 2](./images/fig 2 EMA.jpg)
+
+
+
+
+
 # Title
 - provide key information: e.g., authorship, disclaimer, acknowledgments
 - provide key references 
