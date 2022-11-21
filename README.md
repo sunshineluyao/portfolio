@@ -1,5 +1,7 @@
 
-![Figure 2](images/fig 2 EMA.jpg)
+![Figure 1](https://github.com/isabellakro/portfolio/blob/09b3052dfc253e0f67220237c9f8de3d3d85d225/images/fig1%20decentralization%20index.jpg)
+
+![Figure 2](./images/fig 2 EMA.jpg)
 
 
 
